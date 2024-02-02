@@ -1,0 +1,19 @@
+Pour accorder les permissions d'exécution à votre script shell, vous pouvez utiliser la commande chmod +x, comme indiqué :
+
+
+"chmod +x devoir.sh"
+
+Cela donne au fichier "devoir.sh" les permissions d'exécution.
+
+Ensuite, pour compiler et exécuter votre script avec les différentes options demandées, vous pouvez utiliser les commandes suivantes :
+
+bash
+
+./devoir.sh d1
+./devoir.sh d2
+./devoir.sh l
+./devoir.sh t
+
+Ces commandes exécutent le script "devoir.sh" avec les arguments correspondants (d1, d2, l, t).
+
+les trois dernier traitement ainsi que la mise en forme ont ete effectuer par l'eleve minkoulou laurent
